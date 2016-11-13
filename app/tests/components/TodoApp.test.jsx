@@ -4,7 +4,7 @@ var expect = require('expect');
 var $ = require('jQuery');
 var TestUtils = require('react-addons-test-utils');
 
-var TodoApp = require('Todo');
+var TodoApp = require('TodoApp');
 
 describe('TodoApp', () => {
   it('should exist', () => {
